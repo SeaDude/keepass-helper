@@ -2,7 +2,7 @@
 
 ### WARNING:
 
-**This script will generate password files in plain text. ITS NOT SAFE TO USE**
+**This script will generate password files in plain text. ITS NOT SECURE.**
 
 I needed help remembering my full KeePass Master Password. I could remember parts of it and which keys were likely used. So I built these scripts to help out!
 
