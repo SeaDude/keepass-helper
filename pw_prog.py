@@ -87,7 +87,6 @@ def check_each_pw(clean_pw_file, counter):
 
             # Else, close KeePack and try the next password                
             else:
-                print()
                 t.terminate()
 
 
@@ -95,10 +94,13 @@ def check_each_pw(clean_pw_file, counter):
 
 # Something like C:\Program Files\KeePass Password Safe 2\KeePass.exe
 keepass_app = ''
+
 # Somethinglike E:\Documents\personal\latest.kdbx
 keepass_db = ''
+
 # Keep the pw file in the same directory as the pw_prog.py file
 pw_file = 'output.txt'
+
 # Slap a test file in the same directory as the pw_prog.py file
 test = 'test.txt'
 
